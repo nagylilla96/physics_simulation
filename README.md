@@ -2,9 +2,13 @@
 
 ## Introduction
 
-This repository is based on https://github.com/deepmind/dm_control and needs to have dm_control.
+This repository is based on https://github.com/deepmind/dm_control and needs to have dm_control installed.
+
 Install `dm_control` with
-```pip install dm_control```
+
+```
+pip install dm_control
+```
 
 ## Tutorial
 
