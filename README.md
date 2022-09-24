@@ -16,7 +16,7 @@ To understand how dm_control works, check out the following tutorial: [![Open In
 
 ## Simulations
 
-To run the simulations, you have to run the simulations in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IKrOWXpYV6PP24obAUQTotdCs5ci0gVn?usp=sharing)
+To run the simulations, you have to run `cosmos_poc.ipynb` in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IKrOWXpYV6PP24obAUQTotdCs5ci0gVn?usp=sharing)
 
 ## Mujoco Documentation
 
